@@ -10,7 +10,7 @@
 * Open config.json, and config the bot (generate your token on https://discordapp.com/developers/applications/)
 * open mysql.json, and connect the bot, to your database
 * Run the bot with this command: `node bot.js`
-* Enjoy
+* **Enjoy!**
 
 # ------------------------
 
